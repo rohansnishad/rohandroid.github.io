@@ -23,7 +23,7 @@ section{
     padding:2rem 9%;
 }
 .jack{
-    background: url(videos/WhatsApp\ Image\ 2023-03-11\ at\ 19.06.22_1.gif);
+    background: url(videos/header.gif);
 }
 
 .heading{
@@ -469,7 +469,7 @@ header .fa-bars{
     resize: none;
 }
 .footer{
-   background: url(videos/WhatsApp\ Image\ 2023-03-11\ at\ 19.06.22_1.gif);
+   background: url(videos/header.gif);
 }
 
 .footer .box-container{
