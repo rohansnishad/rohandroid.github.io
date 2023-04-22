@@ -23,7 +23,7 @@ section{
     padding:2rem 9%;
 }
 .jack{
-    background: url(videos/header.gif);
+    /* background: url(videos/header.gif); */
 }
 
 .heading{
@@ -57,7 +57,7 @@ section{
 header{
     position: fixed;
     top:0; left:0; right:0;
-    background:#fff;
+    background: #c4c1c1;
     padding:2rem 9%;
     display: flex;
     align-items: center;
@@ -194,12 +194,13 @@ header .fa-bars{
 
 .home .content p{
     font-size: 1.5rem;
-    color:#999;
+    color:#424141;
     padding:1rem 0;
     line-height: 1.5;
 }
 .about{
-    background:url(videos/WhatsApp\ Image\ 2023-03-11\ at\ 19.06.22.gif);
+    background: #61626d;
+    /* background:url(videos/WhatsApp\ Image\ 2023-03-11\ at\ 19.06.22.gif); */
 }
 
 .about .row{
@@ -229,7 +230,7 @@ header .fa-bars{
     position: absolute;
     top:50%; transform: translateY(-50%);
     font-size: 3rem;
-    background:#fff;
+    background:#505050;
     width:100%;
     padding:1rem 2rem;
     text-align: center;
@@ -310,7 +311,8 @@ header .fa-bars{
 
 /* product start here */
 .products{
-    background: url(videos/WhatsApp\ Image\ 2023-03-11\ at\ 19.06.22.gif);
+    background: #61626d;
+    /* background: url(videos/WhatsApp\ Image\ 2023-03-11\ at\ 19.06.22.gif); */
  
 }
 .products{
@@ -417,7 +419,7 @@ header .fa-bars{
 /* product ends here */
 
 .contact{
-   background:url(videos/WhatsApp\ Image\ 2023-03-11\ at\ 19.06.22.gif);
+   background: #61626d;
    align-items: center;
    padding-left: 12%;
 }
@@ -469,7 +471,8 @@ header .fa-bars{
     resize: none;
 }
 .footer{
-   background: url(videos/header.gif);
+    background: #c4c1c1;
+   /* background: url(videos/header.gif); */
 }
 
 .footer .box-container{
